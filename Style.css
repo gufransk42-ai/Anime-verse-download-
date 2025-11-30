@@ -1,0 +1,61 @@
+:root{
+  --bg:#0b0f14;
+  --neon:#ff2fff;
+  --text:#ffffff;
+}
+
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family: 'Poppins', sans-serif;
+}
+
+header{
+  padding:20px;
+  text-align:center;
+  background:#111725;
+  box-shadow:0 0 20px var(--neon);
+}
+
+header h1{
+  color:var(--neon);
+  text-shadow:0 0 15px var(--neon);
+}
+
+nav a{
+  color:white;
+  margin:0 12px;
+  text-decoration:none;
+}
+
+.yt-section{
+  text-align:center;
+  padding:20px;
+}
+
+.yt-box iframe{
+  width:90%;
+  height:220px;
+  border:2px solid var(--neon);
+  border-radius:20px;
+}
+
+.yt-btn{
+  display:inline-block;
+  margin-top:15px;
+  background:var(--neon);
+  padding:12px 20px;
+  border-radius:12px;
+  color:black;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+.card{
+  background:#111725;
+  padding:15px;
+  margin:10px;
+  border-left:4px solid var(--neon);
+  border-radius:10px;
+}

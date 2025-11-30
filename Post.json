@@ -1,0 +1,14 @@
+{
+  "characters": [
+    {
+      "name": "Aoi Tenchi",
+      "description": "A powerful lightning user with god-level speed.",
+      "power": "Thunder God Mode"
+    },
+    {
+      "name": "Ryu Kage",
+      "description": "Shadow assassin with ultra stealth.",
+      "power": "Dark Slash"
+    }
+  ]
+}
